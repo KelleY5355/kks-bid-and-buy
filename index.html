@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en-CA">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#151113">
+<meta name="description" content="Shop local liquidation deals, everyday bargains and upcoming auctions from KK's Bid & Buy in Belleville and the Quinte area.">
+<title>KK's BID & BUY | Shop Deals & Auctions</title>
+<link rel="stylesheet" href="styles.css">
+<script defer src="settings.js"></script>
+<script defer src="listings.js"></script>
+<script defer src="site.js"></script>
+</head>
+<body>
+<div class="announcement"><span class="spark">✦</span> LOCALLY OWNED • BELLEVILLE & THE QUINTE AREA <span class="spark">✦</span></div>
+<header class="site-header">
+ <div class="shell header-inner">
+  <a href="#home" class="brand" aria-label="KK's Bid and Buy Home"><span class="brand-symbol">🛒</span><span class="brand-kk">KK’s</span><strong>BID <span>&</span> BUY</strong></a>
+  <nav class="site-nav" aria-label="Main navigation"><a href="#shop" class="selected">Shop now</a><a href="#auctions">Auctions</a><a href="#how">How it works</a><a href="#contact">Contact</a></nav>
+  <button class="cart-button" type="button" id="open-cart" aria-label="Open shopping cart"><span aria-hidden="true">🛍</span> <span class="hide-small">My cart</span><span id="cart-count" class="count">0</span></button>
+ </div>
+</header>
+<main>
+ <section class="hero" id="home">
+  <div class="shell hero-inner">
+   <div class="hero-copy">
+    <span class="eyebrow"><span class="dot"></span> THE LOCAL DEAL DESTINATION</span>
+    <h1>Big finds.<br><em>Small prices.</em><br>Endless surprises.</h1>
+    <p>Appliances, electronics, home essentials, toys and more — shop everyday fixed prices or discover what's coming to auction.</p>
+    <div class="hero-actions"><a class="button button-gold" href="#shop">Shop the store <span aria-hidden="true">↗</span></a><a class="button button-outline" href="#auctions">Explore auctions</a></div>
+    <div class="hero-mini"><span>✓ No bidding needed in the store</span><span>✓ Local pickup options</span></div>
+   </div>
+   <div class="hero-media" aria-hidden="true">
+    <div class="hero-glow"></div>
+    <div class="image-tile tile-a"><img src="assets/macbook-pro.webp" alt=""></div>
+    <div class="image-tile tile-b"><img src="assets/jbl-go4.webp" alt=""></div>
+    <div class="image-tile tile-c"><img src="assets/aura-astor.webp" alt=""></div>
+    <div class="sale-label">SHOP <strong>FIXED-PRICE DEALS</strong> <span>+ AUCTIONS TOO</span></div>
+   </div>
+  </div>
+ </section>
+ <div class="features"><div class="shell features-inner"><div><span class="feature-icon">✦</span><strong>Fresh discoveries</strong><small>New finds added regularly</small></div><div><span class="feature-icon">♧</span><strong>Support local</strong><small>Neighbours serving neighbours</small></div><div><span class="feature-icon">▣</span><strong>Clear prices</strong><small>Shop now or choose to bid</small></div></div></div>
+ <section class="shop-section section-pad" id="shop">
+  <div class="shell">
+   <div class="heading"><div><div class="section-kicker">THE ONLINE STORE</div><h2>Shop the latest finds<span class="gold-dot">.</span></h2><p>Fixed-price merchandise, available to request — no auction bidding needed.</p></div><span class="heading-ornament">KK’s <b>DEALS</b></span></div>
+   <div class="store-controls"><label class="search-wrap"><span aria-hidden="true">⌕</span><span class="sr-only">Search store products</span><input id="search-input" type="search" placeholder="Search electronics, home, gifts..."></label><label class="sort-wrap"><span>Sort</span><select id="sort-select" aria-label="Sort products"><option value="featured">Featured</option><option value="low">Price: low to high</option><option value="high">Price: high to low</option><option value="az">Name: A–Z</option></select></label></div>
+   <div class="filter-row" id="category-filters" aria-label="Product categories"></div>
+   <div class="store-counter" id="store-counter" aria-live="polite">Loading store...</div>
+   <div class="products-grid" id="product-grid"></div>
+   <div class="empty-state" id="store-empty" hidden><div>◌</div><h3>Nothing found here yet.</h3><p>Try a different category or search term. Our stock changes often.</p><button class="button button-outline-dark" type="button" id="clear-filters">See all products</button></div>
+   <div class="store-notice"><strong>How ordering works:</strong> Adding to your cart sends a request to KK's BID & BUY — it does not immediately charge you or guarantee an item. We'll confirm availability, pickup arrangements and the final total before payment.</div>
+  </div>
+ </section>
+ <section class="auction-section section-pad" id="auctions"><div class="shell auction-layout"><div class="auction-icon" aria-hidden="true">⚒</div><div><span class="section-kicker">FEELING LUCKY?</span><h2>Love the thrill of a great bid?</h2><p>Our auctions are separate from the everyday store. Check upcoming lots, follow auction announcements, and place bids through the linked auction listing when available.</p><div id="auction-list" class="auction-list"></div><a href="#contact" class="button button-outline" id="auction-more">Get auction updates <span aria-hidden="true">↗</span></a></div></div></section>
+ <section class="how-section section-pad" id="how"><div class="shell"><div class="center-head"><span class="section-kicker">SIMPLE SHOPPING</span><h2>From great find to yours.</h2></div><div class="steps"><article><div class="step-num">01</div><h3>Browse & discover</h3><p>Explore our fixed-price store, filter products and find your next bargain.</p></article><article><div class="step-num">02</div><h3>Request your order</h3><p>Add items to your cart and send us your order request securely.</p></article><article><div class="step-num">03</div><h3>Confirm & collect</h3><p>We confirm inventory, payment details and pickup or delivery options before the sale is finalized.</p></article></div></div></section>
+ <section class="contact-section section-pad" id="contact"><div class="shell contact-box"><div><span class="section-kicker">STAY IN THE LOOP</span><h2>Don’t miss the next great find.</h2><p>Follow KK’s BID & BUY for new arrivals, upcoming auctions and featured local deals.</p></div><div class="contact-actions"><a id="facebook-page-link" class="button button-gold" href="#contact" hidden target="_blank" rel="noopener noreferrer">Visit our Facebook page ↗</a><a id="facebook-group-link" class="button button-outline" href="#contact" hidden target="_blank" rel="noopener noreferrer">Auction group ↗</a><p id="facebook-placeholder" class="contact-placeholder">Facebook links will appear here when the store owner adds them.</p></div></div></section>
+</main>
+<footer class="footer"><div class="shell footer-inner"><div><div class="brand footer-brand"><span class="brand-kk">KK’s</span><strong>BID <span>&</span> BUY</strong></div><p>Auctions • Marketplace • Everyday Store<br>Belleville & the Quinte area, Ontario</p></div><div class="footer-links"><a href="#shop">Shop</a><a href="#auctions">Auctions</a><a href="#how">How ordering works</a><a href="#contact">Contact</a></div></div><div class="shell footer-bottom"><span>© <span id="year">2026</span> KK’s BID & BUY</span><span>Big Finds. Small Prices. Endless Surprises!</span></div></footer>
+
+<div class="drawer-shade" id="drawer-shade" hidden></div>
+<aside class="cart-drawer" id="cart-drawer" aria-label="Shopping cart" aria-modal="true" role="dialog" aria-hidden="true" tabindex="-1">
+ <div class="cart-head"><div><span class="section-kicker">YOUR SELECTIONS</span><h2>Shopping cart</h2></div><button class="close" id="close-cart" aria-label="Close cart">✕</button></div>
+ <div class="cart-items" id="cart-items"></div>
+ <div class="cart-footer"><div class="subtotal"><span>Estimated subtotal</span><strong id="cart-subtotal">$0.00</strong></div><p>CAD · Final total and tax, if applicable, confirmed before payment. No payment is taken here.</p><button type="button" id="checkout-button" class="button button-gold button-full" disabled>Request these items →</button></div>
+</aside>
+
+<div class="checkout-layer" id="checkout-layer" hidden>
+ <div class="checkout-card" role="dialog" aria-modal="true" aria-labelledby="checkout-heading">
+  <div class="checkout-top"><div><span class="section-kicker">NO ONLINE PAYMENT REQUIRED</span><h2 id="checkout-heading">Request your order</h2></div><button id="close-checkout" class="close" type="button" aria-label="Close order form">✕</button></div>
+  <p>Fill out this form and we’ll contact you to confirm your items, availability, pickup details and payment arrangements.</p>
+  <div id="checkout-summary" class="checkout-summary"></div>
+  <form name="order-request" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/thank-you.html" id="order-form">
+   <input type="hidden" name="form-name" value="order-request"><p class="sr-only"><label>Leave this empty <input name="bot-field"></label></p>
+   <input type="hidden" id="order-details" name="order_details"><input type="hidden" id="order-total" name="estimated_subtotal_cad">
+   <div class="form-grid"><label>Full name <span aria-hidden="true">*</span><input type="text" name="customer_name" maxlength="120" required autocomplete="name"></label><label>Email address <span aria-hidden="true">*</span><input type="email" name="email" maxlength="150" required autocomplete="email"></label></div>
+   <div class="form-grid"><label>Phone (optional)<input type="tel" name="phone" maxlength="40" autocomplete="tel"></label><label>Preferred arrangement<select name="fulfilment"><option>Local pickup</option><option>Ask about delivery</option></select></label></div>
+   <label>Questions or special requests (optional)<textarea name="note" rows="3" maxlength="700" placeholder="Anything we should know?"></textarea></label>
+   <label class="form-check"><input type="checkbox" required> I understand this is an order request, not an immediate purchase or confirmed reservation.</label>
+   <p class="privacy-note">Your details will be sent to the store owner using Netlify Forms and used to respond to this order request.</p>
+   <button class="button button-gold button-full" type="submit" id="send-order">Send order request →</button>
+  </form>
+ </div>
+</div>
+</body></html>
