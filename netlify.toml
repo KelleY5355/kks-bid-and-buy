@@ -1,0 +1,5 @@
+[build]
+  base = "."
+  publish = "."
+
+# Static storefront: no build command required.
