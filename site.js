@@ -1,5 +1,17 @@
 /* KK's BID & BUY public shop. Orders use Netlify Forms; no payment, account login, or live inventory sync. */
 (()=>{'use strict';
+
+// Replace missing product photos with a clean branded placeholder instead of a broken image icon.
+document.addEventListener('error',event=>{
+  const img=event.target;
+  if(!(img instanceof HTMLImageElement))return;
+  const placeholder=document.createElement('div');
+  placeholder.className='prod-placeholder';
+  placeholder.setAttribute('role','img');
+  placeholder.setAttribute('aria-label','Product photograph not yet available');
+  placeholder.textContent='✦ KK’s BID & BUY · Photo coming soon';
+  img.replaceWith(placeholder);
+},true);
 const $=s=>document.querySelector(s), esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const raw=Array.isArray(window.KK_LISTINGS)?window.KK_LISTINGS:[], cfg=window.KK_SITE_CONFIG||{};
 const money=n=>new Intl.NumberFormat('en-CA',{style:'currency',currency:'CAD'}).format(n);
