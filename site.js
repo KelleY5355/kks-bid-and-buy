@@ -46,6 +46,31 @@ $('#cart-items').addEventListener('click',e=>{const b=e.target.closest('button')
 $('#product-grid').addEventListener('click',e=>{const a=e.target.closest('[data-add]'),d=e.target.closest('[data-detail]');if(a){adjustCart(a.dataset.add,1);showCart()}if(d)details(d.dataset.detail)});
 $('#category-filters').addEventListener('click',e=>{const b=e.target.closest('[data-category]');if(!b)return;filter=b.dataset.category;renderFilters();renderShop()});
 $('#search-input').addEventListener('input',e=>{q=e.target.value.trim().toLowerCase();renderShop()});$('#sort-select').addEventListener('change',e=>{sort=e.target.value;renderShop()});$('#clear-filters').addEventListener('click',()=>{filter='All';q='';$('#search-input').value='';renderFilters();renderShop()});
-$('#order-form').addEventListener('submit',e=>{const rows=cartRows();if(!rows.length){e.preventDefault();alert('Please add available items to your cart before sending an order request.');return;}const total=rows.reduce((s,x)=>s+x.count*getPrice(x.p.price),0);$('#order-details').value=rows.map(({p,count})=>`${count} × ${p.title} — ${money(getPrice(p.price))} each`).join('\n');$('#order-total').value=total.toFixed(2)});
+$('#order-form').addEventListener('submit',async e=>{
+ e.preventDefault();
+ const rows=cartRows();
+ if(!rows.length){alert('Please add available items to your cart before sending an order request.');return}
+ const total=rows.reduce((s,x)=>s+x.count*getPrice(x.p.price),0);
+ $('#order-details').value=rows.map(({p,count})=>`${count} × ${p.title} — ${money(getPrice(p.price))} each`).join('\n');
+ $('#order-total').value=total.toFixed(2);
+ const form=$('#order-form'),button=$('#send-order');
+ if(button.disabled)return;
+ button.disabled=true;button.textContent='Sending your order request…';
+ let message=$('#order-feedback');
+ if(!message){message=document.createElement('p');message.id='order-feedback';message.setAttribute('role','status');form.append(message)}
+ message.textContent='';
+ try{
+  const data=new FormData(form);
+  const response=await fetch('/',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:new URLSearchParams(data).toString()});
+  if(!response.ok)throw new Error('Order request not accepted (HTTP '+response.status+')');
+  message.textContent='Your order request was submitted. KK’s BID & BUY will contact you to confirm availability and pickup. No payment has been taken.';
+  message.style.color='#8ee6a6';
+  cart={};saveCart();renderCart();form.reset();$('#checkout-summary').innerHTML='<strong>Order request submitted — thank you!</strong>';
+  button.textContent='Request submitted';
+ }catch(error){
+  message.textContent='Your request could not be confirmed. Please try again or contact KK’s BID & BUY directly. No payment has been taken.';
+  message.style.color='#ff9ba7';button.disabled=false;button.textContent='Try sending again';
+ }
+});
 applySettings();renderFilters();renderShop();renderAuctions();renderCart();
 })();
