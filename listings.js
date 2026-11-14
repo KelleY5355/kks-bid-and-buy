@@ -10,7 +10,7 @@ window.KK_LISTINGS = [
     "condition": "Not Yet Confirmed",
     "quantity": 1,
     "description": "Bagless upright vacuum designed for everyday floor and pet-hair cleanup. Features the Pet TurboBrush for stairs and upholstery, brush roll, large easy-empty dirt tank, washable filter, stretch hose, onboard tools and five height settings. Boxed liquidation item; exact model, included accessories, condition and operation must be verified.",
-    "image": "assets/bissell-turbo-pet.webp",
+    "image": "bissell-turbo-pet.webp",
     "imageNote": "Photo from KK’s BID & BUY listing; item condition to be verified",
     "featured": false,
     "link": ""
@@ -160,7 +160,7 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 4,
     "description": "Compact JBL GO 4 speaker with Bluetooth wireless audio, IP67 water and dust resistance, and USB-C charging. Condition, exact colours and included accessories to be confirmed.",
-    "image": "assets/jbl-go4.webp",
+    "image": "jbl-go4.webp",
     "imageNote": "Illustrative product image",
     "featured": true,
     "link": ""
@@ -175,7 +175,7 @@ window.KK_LISTINGS = [
     "condition": "Open Box",
     "quantity": 1,
     "description": "Meta Quest 2 standalone virtual-reality headset with 128GB storage. Open-box item. Controller inclusion, operation and account status to be verified before sale.",
-    "image": "assets/meta-quest2.webp",
+    "image": "meta-quest2.webp",
     "imageNote": "Illustrative product image",
     "featured": true,
     "link": ""
@@ -190,7 +190,7 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 2,
     "description": "16-inch 2019 MacBook Pro, 9th-generation Intel Core i7, 16GB RAM, 512GB SSD. Battery health, charger, condition and Activation Lock status to be checked before sale.",
-    "image": "assets/macbook-pro.webp",
+    "image": "macbook-pro.webp",
     "imageNote": "Illustrative product image",
     "featured": true,
     "link": ""
