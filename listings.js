@@ -158,7 +158,7 @@ window.KK_LISTINGS = [
     "status": "Live",
     "category": "Electronics & Tech",
     "condition": "To Be Confirmed",
-    "quantity": 4,
+    "quantity": 2,
     "description": "Compact JBL GO 4 speaker with Bluetooth wireless audio, IP67 water and dust resistance, and USB-C charging. Condition, exact colours and included accessories to be confirmed.",
     "image": "jbl-go4.webp",
     "imageNote": "Illustrative product image",
