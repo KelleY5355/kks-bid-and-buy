@@ -11,7 +11,7 @@ window.KK_LISTINGS = [
     "quantity": 1,
     "description": "Bagless upright vacuum designed for everyday floor and pet-hair cleanup. Features the Pet TurboBrush for stairs and upholstery, brush roll, large easy-empty dirt tank, washable filter, stretch hose, onboard tools and five height settings. Boxed liquidation item; exact model, included accessories, condition and operation must be verified.",
     "image": "assets/bissell-turbo-pet.webp",
-    "imageNote": "Photo from KK’s BID & BUY listing; item condition to be verified",
+    "imageNote": "Product reference image",
     "featured": false,
     "link": ""
   },
@@ -26,7 +26,7 @@ window.KK_LISTINGS = [
     "quantity": 1,
     "description": "Bagless canister vacuum featuring 15X multi-cyclonic technology, multi-level filtration, easy-empty dirt bin, telescoping wand, automatic cord rewind and tools for multi-surface cleaning. Boxed liquidation item; model, included accessories, condition and operation to be checked.",
     "image": "assets/bissell-powerforce-canister.webp",
-    "imageNote": "Photo from KK’s BID & BUY listing; item condition to be verified",
+    "imageNote": "Product reference image",
     "featured": false,
     "link": ""
   },
@@ -40,8 +40,8 @@ window.KK_LISTINGS = [
     "condition": "Not Yet Confirmed",
     "quantity": 2,
     "description": "Countertop blender with 700-watt peak power, four-tip QuadPro stainless-steel blades, 6-cup PerfectPour glass jar, four speed settings and pulse. Designed for smoothies, sauces, frozen drinks and everyday blending. Model, condition, included components and operation to be confirmed.",
-    "image": "assets/black-decker-powercrush.webp",
-    "imageNote": "Photo from KK’s BID & BUY listing; item condition to be verified",
+    "image": "",
+    "imageNote": "Product photo coming soon",
     "featured": false,
     "link": ""
   },
@@ -56,7 +56,7 @@ window.KK_LISTINGS = [
     "quantity": 1,
     "description": "Boxed Ninja countertop kitchen appliance. Exact model, function, size, features, included accessories, condition and operation have not yet been verified. Please request full model and contents information before purchasing.",
     "image": "assets/ninja-countertop-appliance.webp",
-    "imageNote": "Photo from KK’s BID & BUY listing; item condition to be verified",
+    "imageNote": "Product reference image",
     "featured": false,
     "link": ""
   },
@@ -71,7 +71,7 @@ window.KK_LISTINGS = [
     "quantity": 1,
     "description": "Smart temperature-control travel mug with adjustable drink temperature from 120°F to 145°F, touch display, app connectivity, Apple Find My support, leak-resistant lid and charging coaster. Up to three hours of battery-powered temperature maintenance as advertised for this model. Condition, battery health and included charger to be verified.",
     "image": "assets/ember-travel-mug-2plus.webp",
-    "imageNote": "Photo from KK’s BID & BUY listing; item condition to be verified",
+    "imageNote": "Product reference image",
     "featured": false,
     "link": ""
   },
@@ -86,7 +86,7 @@ window.KK_LISTINGS = [
     "quantity": 1,
     "description": "Compact 200-watt hand blender for soups, sauces, smoothies and quick meal prep. Two-speed operation, stainless-steel blending blade, detachable whisk attachment and ergonomic handle. Removable parts are designed for easy cleaning. Exact contents, condition and operation to be verified.",
     "image": "assets/black-decker-immersion-blender.webp",
-    "imageNote": "Photo from KK’s BID & BUY listing; item condition to be verified",
+    "imageNote": "Product reference image",
     "featured": false,
     "link": ""
   },
@@ -101,7 +101,7 @@ window.KK_LISTINGS = [
     "quantity": 1,
     "description": "1200-watt steam iron with ceramic soleplate, up to 100 g/min steam boost, continuous steam up to 20 g/min, approximately 220 mL water tank and anti-calc feature. A practical appliance for everyday ironing. Model details, condition and operation to be checked.",
     "image": "assets/tfal-steam-essential-iron.webp",
-    "imageNote": "Photo from KK’s BID & BUY listing; item condition to be verified",
+    "imageNote": "Product reference image",
     "featured": false,
     "link": ""
   },
@@ -116,7 +116,7 @@ window.KK_LISTINGS = [
     "quantity": 1,
     "description": "Nespresso Vertuo Next coffee and espresso machine by De’Longhi. One-touch brewing, capsule recognition, multiple coffee sizes, removable water tank and Bluetooth/Wi-Fi connectivity. Compatible with Vertuo capsules. Check included accessories, condition and function before sale.",
     "image": "assets/nespresso-vertuo-next.webp",
-    "imageNote": "Photo from KK’s BID & BUY listing; item condition to be verified",
+    "imageNote": "Product reference image",
     "featured": false,
     "link": ""
   },
@@ -131,7 +131,7 @@ window.KK_LISTINGS = [
     "quantity": 1,
     "description": "Lightweight cordless handheld vacuum featuring HyperVelocity suction, USB charging, rechargeable lithium-ion battery, XL dust cup and removable washable filter. Suited to dry debris in cars, stairs, upholstery and tight spaces. Accessories, battery performance and condition to be confirmed.",
     "image": "assets/shark-cyclone-handheld.webp",
-    "imageNote": "Photo from KK’s BID & BUY listing; item condition to be verified",
+    "imageNote": "Product reference image",
     "featured": false,
     "link": ""
   },
@@ -146,7 +146,7 @@ window.KK_LISTINGS = [
     "quantity": 1,
     "description": "Dr. Brown’s Customflow double electric breast pump with adjustable suction and speed, letdown/expression modes, SoftShape silicone shields, closed-system design, timer, pause function and settings memory. Compatible with Dr. Brown’s Options+ bottles. For hygiene and safety, factory seal, product condition and completeness must be checked before any sale.",
     "image": "assets/dr-browns-customflow-breast-pump.webp",
-    "imageNote": "Photo from KK’s BID & BUY listing; item condition to be verified",
+    "imageNote": "Product reference image",
     "featured": false,
     "link": ""
   },
@@ -157,11 +157,11 @@ window.KK_LISTINGS = [
     "type": "Shop",
     "status": "Live",
     "category": "Electronics & Tech",
-    "condition": "To Be Confirmed",
+    "condition": "Open Box",
     "quantity": 4,
     "description": "Compact JBL GO 4 speaker with Bluetooth wireless audio, IP67 water and dust resistance, and USB-C charging. Condition, exact colours and included accessories to be confirmed.",
     "image": "assets/jbl-go-4.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "imageNote": "Product reference image",
     "featured": true,
     "link": ""
   },
@@ -175,8 +175,8 @@ window.KK_LISTINGS = [
     "condition": "Open Box",
     "quantity": 1,
     "description": "Meta Quest 2 standalone virtual-reality headset with 128GB storage. Open-box item. Controller inclusion, operation and account status to be verified before sale.",
-    "image": "meta-quest2.webp",
-    "imageNote": "Illustrative product image",
+    "image": "assets/meta-quest2.webp",
+    "imageNote": "Product reference image",
     "featured": true,
     "link": ""
   },
@@ -190,8 +190,8 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 2,
     "description": "16-inch 2019 MacBook Pro, 9th-generation Intel Core i7, 16GB RAM, 512GB SSD. Battery health, charger, condition and Activation Lock status to be checked before sale.",
-    "image": "macbook-pro.webp",
-    "imageNote": "Illustrative product image",
+    "image": "assets/macbook-pro.webp",
+    "imageNote": "Product reference image",
     "featured": true,
     "link": ""
   },
@@ -206,7 +206,7 @@ window.KK_LISTINGS = [
     "quantity": 3,
     "description": "Aura Astor Wi-Fi digital photo frame, 12-inch display with app-based photo sharing. Open-box item. Operation and included accessories to be confirmed.",
     "image": "assets/aura-astor.webp",
-    "imageNote": "Illustrative product image",
+    "imageNote": "Product reference image",
     "featured": true,
     "link": ""
   },
@@ -221,7 +221,7 @@ window.KK_LISTINGS = [
     "quantity": 2,
     "description": "Countertop blender for icy drinks and smoothies. Exact model and accessories to be confirmed. Open-box/liquidation item; verify condition and operation before pickup.",
     "image": "",
-    "imageNote": "Actual product photograph to be added",
+    "imageNote": "Product photo coming soon",
     "featured": false,
     "link": ""
   },
@@ -280,8 +280,8 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "450W food processor with two speeds and pulse function. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/black-decker-food-processor.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "",
+    "imageNote": "Product photo coming soon",
     "featured": false,
     "link": ""
   },
@@ -416,7 +416,7 @@ window.KK_LISTINGS = [
     "quantity": 1,
     "description": "White vanity light fixture with four bulb positions; check mounting hardware. Open-box/liquidation item; verify condition and operation before pickup.",
     "image": "",
-    "imageNote": "Actual product photograph to be added",
+    "imageNote": "Product photo coming soon",
     "featured": false,
     "link": ""
   },
@@ -431,7 +431,7 @@ window.KK_LISTINGS = [
     "quantity": 1,
     "description": "Replacement power liftgate struts; vehicle fitment must be checked. Open-box/liquidation item; verify condition and operation before pickup.",
     "image": "",
-    "imageNote": "Actual product photograph to be added",
+    "imageNote": "Product photo coming soon",
     "featured": false,
     "link": ""
   },
@@ -487,7 +487,7 @@ window.KK_LISTINGS = [
     "type": "Shop",
     "status": "Live",
     "category": "Home & Kitchen",
-    "condition": "To Be Confirmed",
+    "condition": "Scratch and dent",
     "quantity": 1,
     "description": "Scratch-and-dent mini fridge; inspect cosmetic marks and cooling before purchase. Open-box/liquidation item; verify condition and operation before pickup.",
     "image": "assets/vissani-black-mini-fridge.webp",
@@ -536,7 +536,7 @@ window.KK_LISTINGS = [
     "quantity": 1,
     "description": "White dehumidifier; verify model and tank capacity. Open-box/liquidation item; verify condition and operation before pickup.",
     "image": "",
-    "imageNote": "Actual product photograph to be added",
+    "imageNote": "Product photo coming soon",
     "featured": false,
     "link": ""
   },
@@ -550,8 +550,8 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Portable air compressor; verify capacity and accessories. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/mastercraft-compressor.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "",
+    "imageNote": "Product photo coming soon",
     "featured": false,
     "link": ""
   },
@@ -566,7 +566,7 @@ window.KK_LISTINGS = [
     "quantity": 1,
     "description": "Countertop air fryer; exact model and quantity to be confirmed. Open-box/liquidation item; verify condition and operation before pickup.",
     "image": "",
-    "imageNote": "Actual product photograph to be added",
+    "imageNote": "Product photo coming soon",
     "featured": false,
     "link": ""
   },
@@ -607,13 +607,20 @@ window.KK_LISTINGS = [
     "type": "Shop",
     "status": "Live",
     "category": "Home & Kitchen",
-    "condition": "To Be Confirmed",
+    "condition": "Scratch and dent",
     "quantity": 1,
     "description": "Hisense silver 6.3 cubic foot refrigerator with interior freezer compartment, shelves and door storage. Scratch-and-dent item with visible dent near the bottom of the door. Verify operation and inspect before pickup.",
     "image": "assets/hisense-silver-mini-fridge.webp",
     "imageNote": "Photo of actual KK’s BID & BUY inventory",
     "featured": false,
-    "link": ""
+    "link": "",
+    "gallery": [
+      {
+        "src": "assets/hisense-silver-mini-fridge-interior.webp",
+        "alt": "Inside the Hisense refrigerator, showing the shelves, door bins and freezer compartment",
+        "caption": "Interior"
+      }
+    ]
   },
   {
     "id": "white-mini-fridge-one",
@@ -622,7 +629,7 @@ window.KK_LISTINGS = [
     "type": "Shop",
     "status": "Live",
     "category": "Home & Kitchen",
-    "condition": "To Be Confirmed",
+    "condition": "Scratch and dent",
     "quantity": 1,
     "description": "Scratch-and-dent white compact refrigerator; exact brand and size to be confirmed. Open-box/liquidation item; verify condition and operation before pickup.",
     "image": "assets/white-mini-fridge-one.webp",
@@ -637,11 +644,11 @@ window.KK_LISTINGS = [
     "type": "Shop",
     "status": "Live",
     "category": "Home & Kitchen",
-    "condition": "To Be Confirmed",
+    "condition": "Scratch and dent",
     "quantity": 1,
     "description": "Scratch-and-dent white compact refrigerator; separate unit with more noticeable cosmetic marks; inspect before purchase. Open-box/liquidation item; verify condition and operation before pickup.",
     "image": "",
-    "imageNote": "Actual product photograph to be added",
+    "imageNote": "Product photo coming soon",
     "featured": false,
     "link": ""
   },
@@ -655,8 +662,8 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Pair of off-road auxiliary lights; verify wiring and compatibility. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/auxbeam-offroad-lights.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "",
+    "imageNote": "Product photo coming soon",
     "featured": false,
     "link": ""
   },
@@ -671,7 +678,7 @@ window.KK_LISTINGS = [
     "quantity": 1,
     "description": "Submersible pump; model and rated capacity to be confirmed. Open-box/liquidation item; verify condition and operation before pickup.",
     "image": "",
-    "imageNote": "Actual product photograph to be added",
+    "imageNote": "Product photo coming soon",
     "featured": false,
     "link": ""
   },
@@ -686,7 +693,7 @@ window.KK_LISTINGS = [
     "quantity": 1,
     "description": "Compact side table; verify measurements and finish. Open-box/liquidation item; verify condition and operation before pickup.",
     "image": "",
-    "imageNote": "Actual product photograph to be added",
+    "imageNote": "Product photo coming soon",
     "featured": false,
     "link": ""
   },
@@ -701,7 +708,7 @@ window.KK_LISTINGS = [
     "quantity": 1,
     "description": "Air-conditioning service vacuum pump and gauge kit; verify included parts. Open-box/liquidation item; verify condition and operation before pickup.",
     "image": "",
-    "imageNote": "Actual product photograph to be added",
+    "imageNote": "Product photo coming soon",
     "featured": false,
     "link": ""
   },
@@ -716,7 +723,7 @@ window.KK_LISTINGS = [
     "quantity": 1,
     "description": "Espresso machine; brand and included accessories to be confirmed. Open-box/liquidation item; verify condition and operation before pickup.",
     "image": "",
-    "imageNote": "Actual product photograph to be added",
+    "imageNote": "Product photo coming soon",
     "featured": false,
     "link": ""
   },
@@ -731,7 +738,7 @@ window.KK_LISTINGS = [
     "quantity": 1,
     "description": "Bagged canister vacuum; exact model and accessories to be checked. Open-box/liquidation item; verify condition and operation before pickup.",
     "image": "",
-    "imageNote": "Actual product photograph to be added",
+    "imageNote": "Product photo coming soon",
     "featured": false,
     "link": ""
   },

@@ -36,7 +36,48 @@ function renderShop(){let result=shop.filter(p=>(filter==='All'||p.category===fi
  $('#store-empty').hidden=result.length!==0;$('#product-grid').innerHTML=result.map(p=>{let st=statusText(p),isAvailable=isLive(p),pVal=getPrice(p.price),price=Number.isFinite(pVal)?money(pVal):esc(p.price),remaining=isAvailable?`${p.quantity} in stock`:esc(p.status);return `<article class="product-card"><div class="prod-img">${p.image?`<img loading="lazy" src="${esc(p.image)}" alt="Product image for ${esc(p.title)}">`:'<div class="prod-placeholder" aria-hidden="true">✦</div>'}<span class="item-badge ${isAvailable?'live':st==='SOLD OUT'?'sold':''}">${st}</span></div><div class="prod-body"><div class="prod-cat">${esc(p.category)}</div><h3>${esc(p.title)}</h3><p class="prod-desc">${esc(p.description||'More details coming soon.')}</p><div class="prod-meta"><span>${esc(p.condition)}</span><span>${remaining}</span></div><div class="prod-bottom"><div class="price">${price} <small>CAD</small></div><div class="prod-actions"><button class="add-btn" type="button" data-add="${esc(p.id)}" ${isAvailable?'':'disabled'}>${isAvailable?'Add to cart +':st==='SOLD OUT'?'Sold out':'Coming soon'}</button><button class="details-btn" type="button" data-detail="${esc(p.id)}">Details</button></div>${p.imageNote?`<div class="image-note">${esc(p.imageNote)}</div>`:''}</div></div></article>`}).join('')}
 function renderAuctions(){const el=$('#auction-list');if(!auctions.length){el.innerHTML='<p>No live auction lots have been published yet. Check back for upcoming announcements.</p>';return;}el.innerHTML=auctions.map(p=>`<div class="auction-card"><div><b>${esc(p.title)}</b><br><small>${esc(p.price)} · ${esc(p.status)}</small></div>${p.link&&p.status.toLowerCase()==='live'?`<a href="${esc(p.link)}" target="_blank" rel="noopener noreferrer">View bidding ↗</a>`:'<strong>Coming soon</strong>'}</div>`).join('')}
 function applySettings(){const fields=[['facebook-page-link',cfg.facebookPageUrl],['facebook-group-link',cfg.facebookGroupUrl]],links=[];for(const [id,url] of fields){const u=safeHttp(url);if(u){$("#"+id).href=u;$("#"+id).hidden=false;links.push(u)}}if(links.length)$('#facebook-placeholder').hidden=true;const au=safeHttp(cfg.facebookGroupUrl);if(au){$('#auction-more').href=au;$('#auction-more').target='_blank';$('#auction-more').rel='noopener noreferrer';}$('#year').textContent=new Date().getFullYear()}
-function details(id){const p=shop.find(x=>x.id===id);if(!p)return;const wrap=document.createElement('div');wrap.className='checkout-layer';wrap.id='detail-layer';let price=getPrice(p.price);wrap.innerHTML=`<section class="checkout-card" role="dialog" aria-modal="true" aria-labelledby="detail-title" style="max-width:520px"><div class="checkout-top"><div><span class="section-kicker">${esc(p.category)}</span><h2 id="detail-title">${esc(p.title)}</h2></div><button type="button" class="close" id="close-detail" aria-label="Close">✕</button></div>${p.image?`<img src="${esc(p.image)}" alt="Product image" style="width:100%;max-height:270px;object-fit:cover;border-radius:10px;margin:14px 0">`:''}<p>${esc(p.description||'Details to be confirmed.')}</p><p><b>Price:</b> ${Number.isFinite(price)?money(price):esc(p.price)} CAD<br><b>Condition:</b> ${esc(p.condition)}<br><b>Status:</b> ${statusText(p)}</p>${p.imageNote?`<p><small>${esc(p.imageNote)}</small></p>`:''}<button type="button" class="button button-gold button-full" id="detail-add" ${isLive(p)?'':'disabled'}>${isLive(p)?'Add to cart +':'Not yet available'}</button></section>`;document.body.append(wrap);document.body.classList.add('no-scroll');const close=()=>{wrap.remove();document.body.classList.remove('no-scroll')};wrap.querySelector('#close-detail').onclick=close;wrap.addEventListener('click',e=>{if(e.target===wrap)close()});wrap.querySelector('#detail-add').onclick=()=>{adjustCart(p.id,1);close();showCart()};wrap.querySelector('#close-detail').focus();}
+function detailPhotos(product){
+ const cover=product.image?{src:product.image,alt:product.title,caption:'Exterior'}:null;
+ const gallery=Array.isArray(product.gallery)?product.gallery:[];
+ const photos=[cover,...gallery].filter(photo=>photo?.src);
+ if(!photos.length)return '';
+ return `<div class="detail-photos${photos.length>1?' detail-photos-grid':''}">${photos.map(photo=>`
+  <figure>
+   <a href="${esc(photo.src)}" target="_blank" rel="noopener noreferrer"><img src="${esc(photo.src)}" alt="${esc(photo.alt)}"></a>
+   ${photos.length>1?`<figcaption>${esc(photo.caption)}</figcaption>`:''}
+  </figure>`).join('')}</div>`;
+}
+function details(id){
+ const p=shop.find(x=>x.id===id);
+ if(!p)return;
+ const wrap=document.createElement('div'),price=getPrice(p.price),available=isLive(p);
+ wrap.className='checkout-layer';
+ wrap.id='detail-layer';
+ wrap.innerHTML=`<section class="checkout-card detail-card" role="dialog" aria-modal="true" aria-labelledby="detail-title">
+  <div class="checkout-top">
+   <div><span class="section-kicker">${esc(p.category)}</span><h2 id="detail-title">${esc(p.title)}</h2></div>
+   <button type="button" class="close" id="close-detail" aria-label="Close">✕</button>
+  </div>
+  ${detailPhotos(p)}
+  <p>${esc(p.description||'Details to be confirmed.')}</p>
+  <p><b>Price:</b> ${Number.isFinite(price)?money(price):esc(p.price)} CAD<br><b>Condition:</b> ${esc(p.condition)}<br><b>Status:</b> ${statusText(p)}</p>
+  ${p.imageNote?`<p><small>${esc(p.imageNote)}</small></p>`:''}
+  <button type="button" class="button button-gold button-full" id="detail-add" ${available?'':'disabled'}>${available?'Add to cart +':statusText(p)==='SOLD OUT'?'Sold out':'Coming soon'}</button>
+ </section>`;
+ const trigger=document.activeElement;
+ document.body.append(wrap);
+ document.body.classList.add('no-scroll');
+ const close=()=>{
+  wrap.remove();
+  document.body.classList.remove('no-scroll');
+  trigger?.focus();
+ };
+ const closeButton=wrap.querySelector('#close-detail');
+ closeButton.onclick=close;
+ wrap.addEventListener('click',e=>{if(e.target===wrap)close()});
+ wrap.querySelector('#detail-add').onclick=()=>{adjustCart(p.id,1);close();showCart()};
+ closeButton.focus();
+}
 function startCheckout(){const rows=cartRows();if(!rows.length)return;hideCart();const total=rows.reduce((s,x)=>s+x.count*getPrice(x.p.price),0);let detail=rows.map(({p,count})=>`${count} × ${p.title} — ${money(getPrice(p.price))} each`).join('\n');$('#order-details').value=detail;$('#order-total').value=total.toFixed(2);$('#checkout-summary').innerHTML=rows.map(({p,count})=>`<div>${count} × ${esc(p.title)} — ${money(count*getPrice(p.price))}</div>`).join('')+`<hr><strong>Estimated subtotal: ${money(total)}</strong>`;$('#checkout-layer').hidden=false;document.body.classList.add('no-scroll');$('#close-checkout').focus()}
 function closeCheckout(){$('#checkout-layer').hidden=true;document.body.classList.remove('no-scroll')}
 $('#open-cart').addEventListener('click',showCart);$('#close-cart').addEventListener('click',hideCart);$('#drawer-shade').addEventListener('click',hideCart);$('#checkout-button').addEventListener('click',startCheckout);$('#close-checkout').addEventListener('click',closeCheckout);
