@@ -1114,7 +1114,7 @@ window.KK_LISTINGS = [
   {
     "id": "house-of-marley-bluetooth-speaker",
     "title": "House of Marley Bluetooth Speaker",
-    "price": "$79",
+    "price": "$65",
     "type": "Shop",
     "status": "Live",
     "category": "Electronics & Tech",
