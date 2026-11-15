@@ -470,10 +470,31 @@ window.KK_LISTINGS = [
     "status": "Live",
     "category": "Fitness & Outdoors",
     "condition": "To Be Confirmed",
-    "quantity": 3,
+    "quantity": 2,
     "description": "Treadmill; verify controls, safety key and operation. Open-box/liquidation item; verify condition and operation before pickup.",
     "image": "assets/sf20-treadmill-folding-reference.webp",
     "imageNote": "Product reference photo showing the folding design",
+    "featured": false,
+    "link": "",
+    "photoInset": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "u18f-motorized-treadmill",
+    "title": "U18F Motorized Treadmill",
+    "price": "$129",
+    "type": "Shop",
+    "status": "Live",
+    "category": "Fitness & Outdoors",
+    "condition": "To Be Confirmed",
+    "quantity": 1,
+    "description": "Motorized treadmill for home use. The carton is marked U18F. Black Friday price.",
+    "image": "assets/u18f-treadmill-carton.webp",
+    "imageNote": "Photo of the actual U18F carton label",
     "featured": false,
     "link": "",
     "photoInset": [
@@ -565,15 +586,15 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Digital automatic heat press for craft transfers. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/htvront-auto-heat-press-2-catalog.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/htvront-auto-heat-press-2-carton.webp",
+    "imageNote": "Photo of the actual carton, with the background cleaned up",
     "featured": false,
     "link": "",
     "photoInset": [
-      3,
-      1,
-      7,
-      1
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
