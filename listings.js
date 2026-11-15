@@ -283,15 +283,15 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "High-velocity portable fan, 14-inch size. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/beyond-breeze-fan-catalog.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/beyond-breeze-14-product.webp",
+    "imageNote": "Product reference photo for Beyond Breeze model CFHV14-EC",
     "featured": false,
     "link": "",
     "photoInset": [
-      6,
-      1,
-      5,
-      1
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -367,15 +367,15 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Precision drip coffee maker with programmable brewing. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/fellow-aiden-catalog.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/fellow-aiden-product.webp",
+    "imageNote": "Fellow manufacturer reference photo shown in matte black",
     "featured": false,
     "link": "",
     "photoInset": [
-      5,
-      8,
-      26,
-      8
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -514,10 +514,16 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "White vanity light fixture with four bulb positions; check mounting hardware. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/vanity-light-four-bulb-inventory.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/vanity-light-four-bulb-product.webp",
+    "imageNote": "Edited photo of the actual fixture with the background cleaned up",
     "featured": false,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
     "id": "gvpart4u-liftgate-struts",
@@ -742,15 +748,15 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Mechanical sewing machine; check pedal and included accessories. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/brother-jx1420-catalog.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/brother-jx1420-product.webp",
+    "imageNote": "Brother manufacturer reference photo for model JX1420",
     "featured": false,
     "link": "",
     "photoInset": [
-      15,
-      12,
-      17,
-      19
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
