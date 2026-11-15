@@ -918,5 +918,134 @@ window.KK_LISTINGS = [
       12,
       6
     ]
+  },
+  {
+    "id": "greenworks-24v-12-inch-snow-shovel",
+    "title": "Greenworks 24V 12-inch Brushless Snow Shovel",
+    "price": "Price pending",
+    "type": "Shop",
+    "status": "Coming Soon",
+    "category": "Outdoor & Garden",
+    "condition": "To Be Confirmed",
+    "quantity": 0,
+    "description": "Cordless 12-inch brushless snow shovel for steps, decks and walkways. Packaging shows a 4.0 Ah battery and 2 A charger. Confirm the included parts and condition before purchase.",
+    "image": "assets/greenworks-24v-12-inch-snow-shovel-reference.webp",
+    "imageNote": "Product reference image from Greenworks Canada",
+    "featured": false,
+    "link": "",
+    "photoInset": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "artika-bjorn-led-pendant",
+    "title": "Artika Bjorn Matte Black LED Pendant Light",
+    "price": "Price pending",
+    "type": "Shop",
+    "status": "Coming Soon",
+    "category": "Home Decor & Gifts",
+    "condition": "To Be Confirmed",
+    "quantity": 0,
+    "description": "Matte black oval LED pendant light with an integrated light ring. Confirm condition and included mounting hardware before purchase.",
+    "image": "assets/artika-bjorn-led-pendant-reference.webp",
+    "imageNote": "Product reference image from Artika Canada",
+    "featured": false,
+    "link": "",
+    "photoInset": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "msi-pro-mp275-27-inch-monitor",
+    "title": "MSI PRO MP275 27-inch IPS Monitor",
+    "price": "Price pending",
+    "type": "Shop",
+    "status": "Coming Soon",
+    "category": "Electronics & Tech",
+    "condition": "To Be Confirmed",
+    "quantity": 0,
+    "description": "27-inch MSI PRO monitor. The box indicates an IPS panel and 120 Hz refresh rate. Confirm the exact model suffix and included cables before purchase.",
+    "image": "assets/msi-pro-mp275-27-inch-monitor-reference.webp",
+    "imageNote": "Product reference image from MSI, PRO MP275 E2 reference",
+    "featured": false,
+    "link": "",
+    "photoInset": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "gasland-be158-propane-water-heater",
+    "title": "GASLAND BE158 Portable Propane Water Heater",
+    "price": "Price pending",
+    "type": "Shop",
+    "status": "Coming Soon",
+    "category": "Home & Kitchen",
+    "condition": "To Be Confirmed",
+    "quantity": 0,
+    "description": "White portable tankless propane water heater for outdoor use. Model BE158. The product label lists 1.58 GPM and 41,000 BTU. Confirm the accessories included with this unit.",
+    "image": "assets/gasland-be158-propane-water-heater-reference.webp",
+    "imageNote": "Product reference image from The Home Appliances",
+    "featured": false,
+    "link": "",
+    "photoInset": [
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": "red-cordless-leaf-blower-vacuum",
+    "title": "Red Cordless Leaf Blower & Vacuum",
+    "price": "Price pending",
+    "type": "Shop",
+    "status": "Draft",
+    "category": "Outdoor & Garden",
+    "condition": "To Be Confirmed",
+    "quantity": 0,
+    "description": "Red cordless blower and vacuum with a collection bag pictured. Brand, model, battery and charger contents to be confirmed.",
+    "image": "",
+    "imageNote": "",
+    "featured": false,
+    "link": ""
+  },
+  {
+    "id": "crua-computer-monitor",
+    "title": "CRUA Computer Monitor",
+    "price": "Price pending",
+    "type": "Shop",
+    "status": "Draft",
+    "category": "Electronics & Tech",
+    "condition": "To Be Confirmed",
+    "quantity": 0,
+    "description": "CRUA monitor. Verify model number, screen size, panel and refresh rate from the product label before selecting a product photo.",
+    "image": "",
+    "imageNote": "",
+    "featured": false,
+    "link": ""
+  },
+  {
+    "id": "vehicle-led-light-bar",
+    "title": "Vehicle LED Light Bar",
+    "price": "Price pending",
+    "type": "Shop",
+    "status": "Draft",
+    "category": "Automotive & Tools",
+    "condition": "To Be Confirmed",
+    "quantity": 0,
+    "description": "Vehicle LED light bar with a black housing and three LED rows. Confirm brand, model, overall length, electrical specifications and mounting kit.",
+    "image": "",
+    "imageNote": "",
+    "featured": false,
+    "link": ""
   }
 ];
