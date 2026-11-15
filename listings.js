@@ -160,10 +160,16 @@ window.KK_LISTINGS = [
     "condition": "Open Box",
     "quantity": 4,
     "description": "Compact JBL GO 4 speaker with Bluetooth wireless audio, IP67 water and dust resistance, and USB-C charging. Condition, exact colours and included accessories to be confirmed.",
-    "image": "assets/jbl-go-4-product-photo.webp",
+    "image": "assets/jbl-go-4-catalog.webp",
     "imageNote": "Product reference image",
     "featured": true,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      0,
+      0,
+      4,
+      0
+    ]
   },
   {
     "id": "meta-quest-2",
@@ -235,10 +241,16 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Ninja CRISPi countertop cooking system; verify model and included glass containers. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/ninja-crispi.webp",
+    "image": "assets/ninja-crispi-catalog.webp",
     "imageNote": "Photo of actual KK’s BID & BUY inventory",
     "featured": false,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      5,
+      1,
+      8,
+      1
+    ]
   },
   {
     "id": "baby-brezza-formula-pro",
@@ -250,10 +262,16 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Automatic baby formula preparation appliance; verify condition, completeness and hygiene before sale. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/baby-brezza-formula-pro.webp",
+    "image": "assets/baby-brezza-formula-pro-catalog.webp",
     "imageNote": "Photo of actual KK’s BID & BUY inventory",
     "featured": false,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      5,
+      8,
+      8,
+      8
+    ]
   },
   {
     "id": "beyond-breeze-fan",
@@ -265,10 +283,16 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "High-velocity portable fan, 14-inch size. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/beyond-breeze-fan.webp",
+    "image": "assets/beyond-breeze-fan-catalog.webp",
     "imageNote": "Photo of actual KK’s BID & BUY inventory",
     "featured": false,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      6,
+      1,
+      5,
+      1
+    ]
   },
   {
     "id": "black-decker-food-processor",
@@ -280,10 +304,16 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "450W food processor with two speeds and pulse function. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/black-decker-food-processor-inventory.webp",
+    "image": "assets/black-decker-food-processor-catalog.webp",
     "imageNote": "Photo of actual KK’s BID & BUY inventory",
     "featured": false,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      13,
+      16,
+      12,
+      14
+    ]
   },
   {
     "id": "nespresso-vertuo-pop-samra",
@@ -295,10 +325,16 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Special-edition Nespresso Vertuo Pop+ by De’Longhi; package pictured with capsules. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/nespresso-vertuo-pop-samra.webp",
+    "image": "assets/nespresso-vertuo-pop-samra-catalog.webp",
     "imageNote": "Photo of actual KK’s BID & BUY inventory",
     "featured": false,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      4,
+      3,
+      6,
+      3
+    ]
   },
   {
     "id": "samsung-odyssey-g5",
@@ -310,10 +346,16 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "32-inch Samsung Odyssey G5 monitor; exact model and screen condition to be verified. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/samsung-odyssey-g5.webp",
+    "image": "assets/samsung-odyssey-g5-catalog.webp",
     "imageNote": "Photo of actual KK’s BID & BUY inventory",
     "featured": false,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      0,
+      0,
+      5,
+      0
+    ]
   },
   {
     "id": "fellow-aiden",
@@ -325,10 +367,16 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Precision drip coffee maker with programmable brewing. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/fellow-aiden.webp",
+    "image": "assets/fellow-aiden-catalog.webp",
     "imageNote": "Photo of actual KK’s BID & BUY inventory",
     "featured": false,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      5,
+      8,
+      26,
+      8
+    ]
   },
   {
     "id": "medela-pump-in-style",
@@ -340,10 +388,16 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Double electric breast pump; hygiene, sealed components and completeness must be verified. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/medela-pump-in-style.webp",
+    "image": "assets/medela-pump-in-style-catalog.webp",
     "imageNote": "Photo of actual KK’s BID & BUY inventory",
     "featured": false,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      17,
+      4,
+      18,
+      4
+    ]
   },
   {
     "id": "ninja-neverclog-juicer",
@@ -355,10 +409,16 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Cold-press juicer; check accessories and operation. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/ninja-neverclog-juicer.webp",
+    "image": "assets/ninja-neverclog-juicer-catalog.webp",
     "imageNote": "Photo of actual KK’s BID & BUY inventory",
     "featured": false,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      10,
+      6,
+      20,
+      7
+    ]
   },
   {
     "id": "bissell-steam-shot-omni",
@@ -370,10 +430,16 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Handheld steam cleaner; accessories and condition to be checked. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/bissell-steam-shot-omni.webp",
+    "image": "assets/bissell-steam-shot-omni-catalog.webp",
     "imageNote": "Photo of actual KK’s BID & BUY inventory",
     "featured": false,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      12,
+      4,
+      19,
+      4
+    ]
   },
   {
     "id": "psos-dehumidifier",
@@ -385,10 +451,16 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Dehumidifier; capacity and exact model to be confirmed. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/psos-dehumidifier.webp",
+    "image": "assets/psos-dehumidifier-catalog.webp",
     "imageNote": "Photo of actual KK’s BID & BUY inventory",
     "featured": false,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      7,
+      9,
+      6,
+      8
+    ]
   },
   {
     "id": "sf20-treadmill",
@@ -400,10 +472,16 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Treadmill; verify controls, safety key and operation. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/sf20-treadmill.webp",
+    "image": "assets/sf20-treadmill-catalog.webp",
     "imageNote": "Photo of actual KK’s BID & BUY inventory",
     "featured": false,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      1,
+      8,
+      18,
+      6
+    ]
   },
   {
     "id": "vanity-light-four-bulb",
@@ -445,10 +523,16 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Ceiling fan with integrated light; model and mounting parts to be confirmed. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/spnoid-ceiling-fan.webp",
+    "image": "assets/spnoid-ceiling-fan-catalog.webp",
     "imageNote": "Photo of actual KK’s BID & BUY inventory",
     "featured": false,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      9,
+      4,
+      10,
+      4
+    ]
   },
   {
     "id": "deko-airless-sprayer",
@@ -460,10 +544,16 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Airless paint sprayer, box marked 3000 PSI and 120V. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/deko-airless-sprayer.webp",
+    "image": "assets/deko-airless-sprayer-catalog.webp",
     "imageNote": "Photo of actual KK’s BID & BUY inventory",
     "featured": false,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      7,
+      2,
+      16,
+      2
+    ]
   },
   {
     "id": "htvront-auto-heat-press-2",
@@ -475,10 +565,16 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Digital automatic heat press for craft transfers. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/htvront-auto-heat-press-2.webp",
+    "image": "assets/htvront-auto-heat-press-2-catalog.webp",
     "imageNote": "Photo of actual KK’s BID & BUY inventory",
     "featured": false,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      3,
+      1,
+      7,
+      1
+    ]
   },
   {
     "id": "vissani-black-mini-fridge",
@@ -490,10 +586,16 @@ window.KK_LISTINGS = [
     "condition": "Scratch and dent",
     "quantity": 1,
     "description": "Scratch-and-dent mini fridge; inspect cosmetic marks and cooling before purchase. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/vissani-black-mini-fridge.webp",
+    "image": "assets/vissani-black-mini-fridge-catalog.webp",
     "imageNote": "Photo of actual KK’s BID & BUY inventory",
     "featured": false,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
     "id": "westinghouse-water-dispenser",
@@ -505,10 +607,16 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Black hot-and-cold water dispenser; verify heating and cooling. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/westinghouse-water-dispenser.webp",
+    "image": "assets/westinghouse-water-dispenser-catalog.webp",
     "imageNote": "Photo of actual KK’s BID & BUY inventory",
     "featured": false,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      0,
+      1,
+      3,
+      1
+    ]
   },
   {
     "id": "master-chef-microwave",
@@ -520,10 +628,16 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Countertop microwave; verify exact wattage and model. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/master-chef-microwave.webp",
+    "image": "assets/master-chef-microwave-catalog.webp",
     "imageNote": "Photo of actual KK’s BID & BUY inventory",
     "featured": false,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
     "id": "vissani-dehumidifier",
@@ -550,10 +664,16 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Portable air compressor; verify capacity and accessories. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/mastercraft-compressor-inventory.webp",
+    "image": "assets/mastercraft-compressor-catalog.webp",
     "imageNote": "Photo of actual KK’s BID & BUY inventory",
     "featured": false,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      0,
+      0,
+      6,
+      0
+    ]
   },
   {
     "id": "instant-vortex-plus",
@@ -580,10 +700,16 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 0,
     "description": "110/220V plasma cutter with MMA capability; verify included leads and accessories. Sold.",
-    "image": "assets/bestarc-plasma-cutter.webp",
+    "image": "assets/bestarc-plasma-cutter-catalog.webp",
     "imageNote": "Photo of actual KK’s BID & BUY inventory",
     "featured": false,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      5,
+      0,
+      8,
+      0
+    ]
   },
   {
     "id": "brother-jx1420",
@@ -595,10 +721,16 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Mechanical sewing machine; check pedal and included accessories. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/brother-jx1420-inventory.webp",
+    "image": "assets/brother-jx1420-catalog.webp",
     "imageNote": "Photo of actual KK’s BID & BUY inventory",
     "featured": false,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      15,
+      12,
+      17,
+      19
+    ]
   },
   {
     "id": "hisense-silver-mini-fridge",
@@ -610,7 +742,7 @@ window.KK_LISTINGS = [
     "condition": "Scratch and dent",
     "quantity": 1,
     "description": "Hisense silver 6.3 cubic foot refrigerator with interior freezer compartment, shelves and door storage. Scratch-and-dent item with visible dent near the bottom of the door. Verify operation and inspect before pickup.",
-    "image": "assets/hisense-silver-mini-fridge.webp",
+    "image": "assets/hisense-silver-mini-fridge-catalog.webp",
     "imageNote": "Photo of actual KK’s BID & BUY inventory",
     "featured": false,
     "link": "",
@@ -620,6 +752,12 @@ window.KK_LISTINGS = [
         "alt": "Inside the Hisense refrigerator, showing the shelves, door bins and freezer compartment",
         "caption": "Interior"
       }
+    ],
+    "photoInset": [
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
@@ -632,10 +770,16 @@ window.KK_LISTINGS = [
     "condition": "Scratch and dent",
     "quantity": 1,
     "description": "White compact refrigerator. This is the bottom unit shown in the video. Exact brand and size to be confirmed. Inspect condition and verify operation before pickup.",
-    "image": "assets/white-mini-fridge-one-product-photo.webp",
+    "image": "assets/white-mini-fridge-one-catalog.webp",
     "imageNote": "Bottom unit in the inventory video",
     "featured": false,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      51,
+      35,
+      27,
+      24
+    ]
   },
   {
     "id": "white-mini-fridge-two",
@@ -647,10 +791,16 @@ window.KK_LISTINGS = [
     "condition": "Scratch and dent",
     "quantity": 1,
     "description": "White compact refrigerator with a dent. This is the top unit shown in the video. Exact brand and size to be confirmed. Inspect condition and verify operation before pickup.",
-    "image": "assets/white-mini-fridge-two-product-photo.webp",
+    "image": "assets/white-mini-fridge-two-catalog.webp",
     "imageNote": "Top unit in the inventory video",
     "featured": false,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      24,
+      10,
+      41,
+      16
+    ]
   },
   {
     "id": "auxbeam-offroad-lights",
@@ -662,10 +812,16 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Pair of off-road auxiliary lights; verify wiring and compatibility. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/auxbeam-offroad-lights-inventory.webp",
+    "image": "assets/auxbeam-offroad-lights-catalog.webp",
     "imageNote": "Photo of actual KK’s BID & BUY inventory",
     "featured": false,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      13,
+      0,
+      11,
+      0
+    ]
   },
   {
     "id": "submersible-water-pump",
@@ -752,9 +908,15 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Teal-and-black wet/dry vacuum; brand and capacity to be confirmed. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/wet-dry-vacuum.webp",
+    "image": "assets/wet-dry-vacuum-catalog.webp",
     "imageNote": "Photo of actual KK’s BID & BUY inventory",
     "featured": false,
-    "link": ""
+    "link": "",
+    "photoInset": [
+      4,
+      6,
+      12,
+      6
+    ]
   }
 ];
