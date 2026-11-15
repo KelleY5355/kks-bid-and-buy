@@ -10,6 +10,14 @@
 <script defer src="settings.js"></script>
 <script defer src="listings.js"></script>
 <script defer src="site.js"></script>
+<style>
+ #black-friday-treadmills { background: var(--red-dark); color: #fff; }
+ .black-friday-offer { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 12px 24px; padding-block: 20px; }
+ .black-friday-offer h2 { font-size: clamp(1.25rem, 3vw, 1.875rem); margin: 0; }
+ .black-friday-offer h2 span { color: var(--gold); }
+ .black-friday-offer p { margin: 6px 0 0; line-height: 1.45; }
+ .black-friday-offer .black-friday-details { flex-basis: 100%; margin: 0; font-size: .875rem; }
+</style>
 </head>
 <body>
 <div class="announcement"><span class="spark">✦</span> LOCALLY OWNED • BELLEVILLE & THE QUINTE AREA <span class="spark">✦</span></div>
@@ -21,6 +29,16 @@
  </div>
 </header>
 <main>
+ <section id="black-friday-treadmills" aria-labelledby="black-friday-treadmills-title">
+  <div class="shell black-friday-offer">
+   <div>
+    <h2 id="black-friday-treadmills-title">Black Friday Deal <span>— $60 Off Treadmills!</span></h2>
+    <p>Keep walking all winter from the comfort of home. Get <strong>$60 off treadmills</strong> at <strong>KK’s BID &amp; BUY</strong>.</p>
+   </div>
+   <a class="button button-gold" href="https://www.facebook.com/share/19fpamtz1H/" target="_blank" rel="noopener noreferrer">Message us on Facebook</a>
+   <p class="black-friday-details">Message our Facebook page for sale prices and availability.</p>
+  </div>
+ </section>
  <section class="hero" id="home">
   <div class="shell hero-inner">
    <div class="hero-copy">
