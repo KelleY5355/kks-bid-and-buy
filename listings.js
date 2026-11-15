@@ -472,8 +472,8 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 3,
     "description": "Treadmill; verify controls, safety key and operation. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/sf20-treadmill-catalog.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/sf20-treadmill-folding-reference.webp",
+    "imageNote": "Product reference photo showing the folding design",
     "featured": false,
     "link": "",
     "photoInset": [
