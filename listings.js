@@ -477,10 +477,10 @@ window.KK_LISTINGS = [
     "featured": false,
     "link": "",
     "photoInset": [
-      1,
-      8,
-      18,
-      6
+      0,
+      0,
+      0,
+      0
     ]
   },
   {
