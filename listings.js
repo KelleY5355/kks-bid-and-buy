@@ -1236,5 +1236,20 @@ window.KK_LISTINGS = [
       0,
       0
     ]
+  },
+  {
+    "id": "lenovo-100e-chromebook-82q30003us",
+    "title": "Lenovo 100e Chromebook 2nd Gen MTK 2",
+    "price": "$99",
+    "type": "Shop",
+    "status": "Live",
+    "category": "Electronics & Tech",
+    "condition": "To Be Confirmed",
+    "quantity": 1,
+    "description": "Compact black 11.6-inch HD Chromebook for schoolwork, browsing and Google Docs. Model 82Q30003US with 4 GB RAM, 32 GB storage, webcam and USB-C charging. Google lists ChromeOS updates through June 2030. Charger inclusion and battery health to be confirmed.",
+    "image": "assets/lenovo-100e-chromebook-82q30003us.webp",
+    "imageNote": "Edited photo of the actual unit showing the ChromeOS startup screen",
+    "featured": false,
+    "link": ""
   }
 ];
