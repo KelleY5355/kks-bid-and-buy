@@ -219,7 +219,7 @@ window.KK_LISTINGS = [
   {
     "id": "black-decker-icecrush",
     "title": "BLACK+DECKER IceCrush Blender",
-    "price": "$29",
+    "price": "$36",
     "type": "Shop",
     "status": "Live",
     "category": "Home & Kitchen",
