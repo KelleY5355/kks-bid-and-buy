@@ -470,7 +470,7 @@ window.KK_LISTINGS = [
     "status": "Live",
     "category": "Fitness & Outdoors",
     "condition": "To Be Confirmed",
-    "quantity": 1,
+    "quantity": 3,
     "description": "Treadmill; verify controls, safety key and operation. Open-box/liquidation item; verify condition and operation before pickup.",
     "image": "assets/sf20-treadmill-catalog.webp",
     "imageNote": "Photo of actual KK’s BID & BUY inventory",
