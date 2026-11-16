@@ -1158,5 +1158,35 @@ window.KK_LISTINGS = [
     "imageNote": "Delta Children manufacturer reference photo showing the Garden Path pattern",
     "featured": false,
     "link": ""
+  },
+  {
+    "id": "black-decker-12-cup-vortex",
+    "title": "BLACK+DECKER 12-Cup Programmable Vortex Coffee Maker",
+    "price": "$35",
+    "type": "Shop",
+    "status": "Live",
+    "category": "Home & Kitchen",
+    "condition": "Boxed · Condition unverified",
+    "quantity": 2,
+    "description": "Programmable drip coffee maker with a glass carafe, Vortex water flow, brew strength selection, a pause-to-pour feature and automatic shutoff. Message us to confirm condition and operation before pickup.",
+    "image": "assets/black-decker-12-cup-vortex-product-reference.webp",
+    "imageNote": "BLACK+DECKER product reference photo. Actual packaging shows wear.",
+    "featured": false,
+    "link": ""
+  },
+  {
+    "id": "black-decker-12-cup-thermal",
+    "title": "BLACK+DECKER 12-Cup Programmable Thermal Coffee Maker",
+    "price": "$49",
+    "type": "Shop",
+    "status": "Live",
+    "category": "Home & Kitchen",
+    "condition": "Boxed · Condition unverified",
+    "quantity": 1,
+    "description": "Programmable drip coffee maker with a stainless steel thermal carafe, adjustable brew strength and a small-batch setting. Message us to confirm condition and operation before pickup.",
+    "image": "assets/black-decker-12-cup-thermal-product-reference.webp",
+    "imageNote": "Walmart Canada product reference photo. Actual packaging shows wear.",
+    "featured": false,
+    "link": ""
   }
 ];
