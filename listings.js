@@ -1188,5 +1188,20 @@ window.KK_LISTINGS = [
     "imageNote": "Walmart Canada product reference photo.",
     "featured": false,
     "link": ""
+  },
+  {
+    "id": "five-light-drum-chandelier-528-gdd-5",
+    "title": "5-Light Drum Shade Chandelier",
+    "price": "$79",
+    "type": "Shop",
+    "status": "Live",
+    "category": "Home Decor & Gifts",
+    "condition": "Tested before pickup",
+    "quantity": 1,
+    "description": "Save about 85% compared with a similar chandelier listed at US$358.69 (about C$511.38 at the Bank of Canada exchange rate of 1.4257). This chain-hung chandelier has a tapered shade, curved outer frame and acrylic bottom diffuser. Uses five E12 bulbs, up to 40 W each. Bulbs sold separately. Hardwired for indoor use. Model 528-GDD-5.",
+    "image": "https://cdn.shopify.com/s/files/1/0409/9863/3626/files/chandelierias-5-light-tapered-fabric-drum-lantern-pendant-pendants-228-in-1-pack-6468705.jpg?v=1788366469&width=650",
+    "imageNote": "Reference photo of a similar fixture. The fixture for sale hangs from a chain.",
+    "featured": false,
+    "link": ""
   }
 ];
