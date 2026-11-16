@@ -1203,5 +1203,20 @@ window.KK_LISTINGS = [
     "imageNote": "Reference photo of a similar fixture. The fixture for sale hangs from a chain.",
     "featured": false,
     "link": ""
+  },
+  {
+    "id": "classic-black-outdoor-lamp-post-18116",
+    "title": "Classic Black Outdoor Lamp Post",
+    "price": "$79",
+    "type": "Shop",
+    "status": "Live",
+    "category": "Outdoor & Garden",
+    "condition": "Tested before pickup",
+    "quantity": 1,
+    "description": "Traditional single lantern with clear panels, a decorative fluted post and a wide base. A classic look for a front walkway, driveway entrance or garden path. Lantern, post and base included. Item 18116.",
+    "image": "assets/classic-black-outdoor-lamp-post-18116.webp",
+    "imageNote": "Product image edited from our photo.",
+    "featured": false,
+    "link": ""
   }
 ];
