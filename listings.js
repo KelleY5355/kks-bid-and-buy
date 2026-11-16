@@ -970,7 +970,7 @@ window.KK_LISTINGS = [
   {
     "id": "slime-zippered-case",
     "title": "Slime Tire Pump with Carry Case",
-    "price": "$5",
+    "price": "$25",
     "type": "Shop",
     "status": "Live",
     "category": "Automotive & Tools",
