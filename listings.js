@@ -1218,5 +1218,20 @@ window.KK_LISTINGS = [
     "imageNote": "Product image edited from our photo.",
     "featured": false,
     "link": ""
+  },
+  {
+    "id": "jbl-go-5-blue",
+    "title": "JBL Go 5 Portable Bluetooth Speaker, Blue",
+    "price": "$65",
+    "type": "Shop",
+    "status": "Live",
+    "category": "Electronics & Tech",
+    "condition": "Tested before pickup",
+    "quantity": 1,
+    "description": "Pocket-sized Bluetooth speaker with a built-in carry loop and ambient edge lighting. IP68 waterproof and dustproof, with up to 10 hours of playtime. Pair two Go 5 speakers for stereo sound with AirTouch.",
+    "image": "https://multimedia.bbycastatic.ca/multimedia/products/500x500/198/19832/19832768.jpg",
+    "imageNote": "Best Buy Canada product reference photo.",
+    "featured": false,
+    "link": ""
   }
 ];
