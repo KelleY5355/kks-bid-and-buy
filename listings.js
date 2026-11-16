@@ -1233,5 +1233,20 @@ window.KK_LISTINGS = [
     "imageNote": "Best Buy Canada product reference photo.",
     "featured": false,
     "link": ""
+  },
+  {
+    "id": "adjustable-rolling-side-table",
+    "title": "Adjustable Rolling Side Table",
+    "price": "$45",
+    "type": "Shop",
+    "status": "Live",
+    "category": "Home Decor & Gifts",
+    "condition": "Tested before pickup",
+    "quantity": 1,
+    "description": "Compact side table with a warm brown wood-look top, rounded corners, adjustable height and four caster wheels. Use it beside a sofa or chair for a laptop, snacks or a book. Assembly required.",
+    "image": "assets/adjustable-rolling-side-table.webp",
+    "imageNote": "Illustrative assembled preview based on the product photos and assembly instructions.",
+    "featured": false,
+    "link": ""
   }
 ];
