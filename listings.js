@@ -1143,5 +1143,20 @@ window.KK_LISTINGS = [
     "imageNote": "Edited photo of the actual unit showing the ChromeOS startup screen",
     "featured": false,
     "link": ""
+  },
+  {
+    "id": "delta-children-sweet-slumber-bassinet",
+    "title": "Delta Children Sweet Slumber Bassinet",
+    "price": "Price pending",
+    "type": "Shop",
+    "status": "Coming Soon",
+    "category": "Baby & Family",
+    "condition": "Condition to be confirmed",
+    "quantity": 1,
+    "description": "Delta Children Sweet Slumber Bassinet with a rotating mobile, soothing sounds, gentle vibrations, nightlight and lower storage basket. Condition and included parts are pending verification.",
+    "image": "assets/delta-children-sweet-slumber-bassinet-product-reference.webp",
+    "imageNote": "Delta Children manufacturer reference photo showing the Garden Path pattern",
+    "featured": false,
+    "link": ""
   }
 ];
