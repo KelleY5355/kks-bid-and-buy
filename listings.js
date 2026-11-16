@@ -465,7 +465,7 @@ window.KK_LISTINGS = [
   {
     "id": "sf20-treadmill",
     "title": "SF20 Treadmill",
-    "price": "$299",
+    "price": "$239",
     "type": "Shop",
     "status": "Live",
     "category": "Fitness & Outdoors",
