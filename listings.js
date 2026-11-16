@@ -10,8 +10,8 @@ window.KK_LISTINGS = [
     "condition": "Not Yet Confirmed",
     "quantity": 1,
     "description": "Bagless upright vacuum designed for everyday floor and pet-hair cleanup. Features the Pet TurboBrush for stairs and upholstery, brush roll, large easy-empty dirt tank, washable filter, stretch hose, onboard tools and five height settings. Boxed liquidation item; exact model, included accessories, condition and operation must be verified.",
-    "image": "assets/bissell-turbo-pet-inventory.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/bissell-turbo-pet-product-reference.webp",
+    "imageNote": "BISSELL product reference photo",
     "featured": false,
     "link": ""
   },
@@ -25,8 +25,8 @@ window.KK_LISTINGS = [
     "condition": "Not Yet Confirmed",
     "quantity": 1,
     "description": "Bagless canister vacuum featuring 15X multi-cyclonic technology, multi-level filtration, easy-empty dirt bin, telescoping wand, automatic cord rewind and tools for multi-surface cleaning. Boxed liquidation item; model, included accessories, condition and operation to be checked.",
-    "image": "assets/bissell-powerforce-canister-inventory.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/bissell-powerforce-canister-product-reference.webp",
+    "imageNote": "Product reference photo",
     "featured": false,
     "link": ""
   },
@@ -40,8 +40,8 @@ window.KK_LISTINGS = [
     "condition": "Not Yet Confirmed",
     "quantity": 4,
     "description": "Countertop blender with 700-watt peak power, four-tip QuadPro stainless-steel blades, 6-cup PerfectPour glass jar, four speed settings and pulse. Designed for smoothies, sauces, frozen drinks and everyday blending. Model, condition, included components and operation to be confirmed.",
-    "image": "assets/black-decker-powercrush-inventory.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/black-decker-powercrush-product-reference.webp",
+    "imageNote": "BLACK+DECKER product reference photo",
     "featured": false,
     "link": ""
   },
@@ -55,8 +55,8 @@ window.KK_LISTINGS = [
     "condition": "Not Yet Confirmed",
     "quantity": 1,
     "description": "Boxed Ninja countertop kitchen appliance. Exact model, function, size, features, included accessories, condition and operation have not yet been verified. Please request full model and contents information before purchasing.",
-    "image": "assets/ninja-countertop-appliance-inventory.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "",
+    "imageNote": "Product photo pending.",
     "featured": false,
     "link": ""
   },
@@ -85,8 +85,8 @@ window.KK_LISTINGS = [
     "condition": "Not Yet Confirmed",
     "quantity": 1,
     "description": "Compact 200-watt hand blender for soups, sauces, smoothies and quick meal prep. Two-speed operation, stainless-steel blending blade, detachable whisk attachment and ergonomic handle. Removable parts are designed for easy cleaning. Exact contents, condition and operation to be verified.",
-    "image": "assets/black-decker-immersion-blender-inventory.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/black-decker-immersion-blender-product-reference.webp",
+    "imageNote": "Product reference photo",
     "featured": false,
     "link": ""
   },
@@ -100,8 +100,8 @@ window.KK_LISTINGS = [
     "condition": "Not Yet Confirmed",
     "quantity": 1,
     "description": "1200-watt steam iron with ceramic soleplate, up to 100 g/min steam boost, continuous steam up to 20 g/min, approximately 220 mL water tank and anti-calc feature. A practical appliance for everyday ironing. Model details, condition and operation to be checked.",
-    "image": "assets/tfal-steam-essential-iron-inventory.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/tfal-steam-essential-iron-product-reference.webp",
+    "imageNote": "Product reference photo",
     "featured": false,
     "link": ""
   },
@@ -115,8 +115,8 @@ window.KK_LISTINGS = [
     "condition": "Not Yet Confirmed",
     "quantity": 1,
     "description": "Nespresso Vertuo Next coffee and espresso machine by De’Longhi. One-touch brewing, capsule recognition, multiple coffee sizes, removable water tank and Bluetooth/Wi-Fi connectivity. Compatible with Vertuo capsules. Check included accessories, condition and function before sale.",
-    "image": "assets/nespresso-vertuo-next-inventory.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/nespresso-vertuo-next-product-reference.webp",
+    "imageNote": "De’Longhi reference photo shown in matte black. Confirm the unit colour before purchase.",
     "featured": false,
     "link": ""
   },
@@ -130,8 +130,8 @@ window.KK_LISTINGS = [
     "condition": "Not Yet Confirmed",
     "quantity": 1,
     "description": "Lightweight cordless handheld vacuum featuring HyperVelocity suction, USB charging, rechargeable lithium-ion battery, XL dust cup and removable washable filter. Suited to dry debris in cars, stairs, upholstery and tight spaces. Accessories, battery performance and condition to be confirmed.",
-    "image": "assets/shark-cyclone-handheld-inventory.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/shark-cyclone-handheld-product-reference.webp",
+    "imageNote": "Product reference photo. Confirm included attachments before purchase.",
     "featured": false,
     "link": ""
   },
@@ -145,8 +145,8 @@ window.KK_LISTINGS = [
     "condition": "Not Yet Confirmed",
     "quantity": 1,
     "description": "Dr. Brown’s Customflow double electric breast pump with adjustable suction and speed, letdown/expression modes, SoftShape silicone shields, closed-system design, timer, pause function and settings memory. Compatible with Dr. Brown’s Options+ bottles. For hygiene and safety, factory seal, product condition and completeness must be checked before any sale.",
-    "image": "assets/dr-browns-customflow-breast-pump-inventory.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/dr-browns-customflow-breast-pump-product-reference.webp",
+    "imageNote": "Product reference photo. Confirm included accessories before purchase.",
     "featured": false,
     "link": ""
   },
@@ -196,8 +196,8 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 2,
     "description": "16-inch 2019 MacBook Pro, 9th-generation Intel Core i7, 16GB RAM, 512GB SSD. Battery health, charger, condition and Activation Lock status to be checked before sale.",
-    "image": "assets/macbook-2019-inventory.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/macbook-2019-product-reference.webp",
+    "imageNote": "Apple product reference photo",
     "featured": true,
     "link": ""
   },
@@ -226,8 +226,8 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Countertop blender for icy drinks and smoothies. Exact model and accessories to be confirmed. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/black-decker-icecrush-product-photo.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/black-decker-icecrush-product-reference.webp",
+    "imageNote": "Product reference photo",
     "featured": false,
     "link": ""
   },
@@ -241,16 +241,10 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Ninja CRISPi countertop cooking system; verify model and included glass containers. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/ninja-crispi-catalog.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/ninja-crispi-product-reference.webp",
+    "imageNote": "Ninja product reference photo for the FN101ST in Stone",
     "featured": false,
-    "link": "",
-    "photoInset": [
-      5,
-      1,
-      8,
-      1
-    ]
+    "link": ""
   },
   {
     "id": "baby-brezza-formula-pro",
@@ -262,16 +256,10 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Automatic baby formula preparation appliance; verify condition, completeness and hygiene before sale. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/baby-brezza-formula-pro-catalog.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/baby-brezza-formula-pro-product-reference.webp",
+    "imageNote": "Baby Brezza product reference photo",
     "featured": false,
-    "link": "",
-    "photoInset": [
-      5,
-      8,
-      8,
-      8
-    ]
+    "link": ""
   },
   {
     "id": "beyond-breeze-fan",
@@ -304,16 +292,10 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "450W food processor with two speeds and pulse function. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/black-decker-food-processor-catalog.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/black-decker-food-processor-product-reference.webp",
+    "imageNote": "Product reference photo",
     "featured": false,
-    "link": "",
-    "photoInset": [
-      13,
-      16,
-      12,
-      14
-    ]
+    "link": ""
   },
   {
     "id": "nespresso-vertuo-pop-samra",
@@ -325,16 +307,10 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Special-edition Nespresso Vertuo Pop+ by De’Longhi; package pictured with capsules. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/nespresso-vertuo-pop-samra-catalog.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/nespresso-vertuo-pop-samra-product-reference.webp",
+    "imageNote": "Nespresso product reference photo",
     "featured": false,
-    "link": "",
-    "photoInset": [
-      4,
-      3,
-      6,
-      3
-    ]
+    "link": ""
   },
   {
     "id": "samsung-odyssey-g5",
@@ -346,16 +322,10 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "32-inch Samsung Odyssey G5 monitor; exact model and screen condition to be verified. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/samsung-odyssey-g5-catalog.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/samsung-odyssey-g5-product-reference.webp",
+    "imageNote": "Samsung 32-inch Odyssey G5 reference photo. Exact model to be confirmed.",
     "featured": false,
-    "link": "",
-    "photoInset": [
-      0,
-      0,
-      5,
-      0
-    ]
+    "link": ""
   },
   {
     "id": "fellow-aiden",
@@ -388,16 +358,10 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Double electric breast pump; hygiene, sealed components and completeness must be verified. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/medela-pump-in-style-catalog.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/medela-pump-in-style-product-reference.webp",
+    "imageNote": "Medela Pump In Style reference photo. Confirm included accessories before purchase.",
     "featured": false,
-    "link": "",
-    "photoInset": [
-      17,
-      4,
-      18,
-      4
-    ]
+    "link": ""
   },
   {
     "id": "ninja-neverclog-juicer",
@@ -409,16 +373,10 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Cold-press juicer; check accessories and operation. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/ninja-neverclog-juicer-catalog.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/ninja-neverclog-juicer-product-reference.webp",
+    "imageNote": "Product reference photo",
     "featured": false,
-    "link": "",
-    "photoInset": [
-      10,
-      6,
-      20,
-      7
-    ]
+    "link": ""
   },
   {
     "id": "bissell-steam-shot-omni",
@@ -430,16 +388,10 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 2,
     "description": "Handheld steam cleaner; accessories and condition to be checked. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/bissell-steam-shot-omni-catalog.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/bissell-steam-shot-omni-product-reference.webp",
+    "imageNote": "Product reference photo",
     "featured": false,
-    "link": "",
-    "photoInset": [
-      12,
-      4,
-      19,
-      4
-    ]
+    "link": ""
   },
   {
     "id": "psos-dehumidifier",
@@ -451,16 +403,10 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Dehumidifier; capacity and exact model to be confirmed. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/psos-dehumidifier-catalog.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/psos-dehumidifier-product-reference.webp",
+    "imageNote": "PSOS product reference photo. Exact model and capacity to be confirmed.",
     "featured": false,
-    "link": "",
-    "photoInset": [
-      7,
-      9,
-      6,
-      8
-    ]
+    "link": ""
   },
   {
     "id": "sf20-treadmill",
@@ -493,16 +439,10 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Motorized treadmill for home use. The carton is marked U18F. Black Friday price.",
-    "image": "assets/u18f-treadmill-carton.webp",
-    "imageNote": "Photo of the actual U18F carton label",
+    "image": "assets/u18f-motorized-treadmill-product-reference.webp",
+    "imageNote": "U18F product reference photo",
     "featured": false,
-    "link": "",
-    "photoInset": [
-      0,
-      0,
-      0,
-      0
-    ]
+    "link": ""
   },
   {
     "id": "vanity-light-four-bulb",
@@ -535,8 +475,8 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Replacement power liftgate struts; vehicle fitment must be checked. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/gvpart4u-liftgate-struts-inventory.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "",
+    "imageNote": "Product photo pending.",
     "featured": false,
     "link": ""
   },
@@ -550,16 +490,10 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Ceiling fan with integrated light; model and mounting parts to be confirmed. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/spnoid-ceiling-fan-catalog.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "",
+    "imageNote": "Product photo pending.",
     "featured": false,
-    "link": "",
-    "photoInset": [
-      9,
-      4,
-      10,
-      4
-    ]
+    "link": ""
   },
   {
     "id": "deko-airless-sprayer",
@@ -571,16 +505,10 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Airless paint sprayer, box marked 3000 PSI and 120V. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/deko-airless-sprayer-catalog.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/deko-airless-sprayer-product-reference.webp",
+    "imageNote": "DEKOPRO product reference photo",
     "featured": false,
-    "link": "",
-    "photoInset": [
-      7,
-      2,
-      16,
-      2
-    ]
+    "link": ""
   },
   {
     "id": "htvront-auto-heat-press-2",
@@ -691,16 +619,10 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Portable air compressor; verify capacity and accessories. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/mastercraft-compressor-catalog.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "",
+    "imageNote": "Product photo pending.",
     "featured": false,
-    "link": "",
-    "photoInset": [
-      0,
-      0,
-      6,
-      0
-    ]
+    "link": ""
   },
   {
     "id": "instant-vortex-plus",
@@ -727,16 +649,10 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 0,
     "description": "110/220V plasma cutter with MMA capability; verify included leads and accessories. Sold.",
-    "image": "assets/bestarc-plasma-cutter-catalog.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/bestarc-plasma-cutter-product-reference.webp",
+    "imageNote": "Bestarc product reference photo for the BTC800DP",
     "featured": false,
-    "link": "",
-    "photoInset": [
-      5,
-      0,
-      8,
-      0
-    ]
+    "link": ""
   },
   {
     "id": "brother-jx1420",
@@ -797,16 +713,10 @@ window.KK_LISTINGS = [
     "condition": "Scratch and dent",
     "quantity": 1,
     "description": "White compact refrigerator. This is the bottom unit shown in the video. Exact brand and size to be confirmed. Inspect condition and verify operation before pickup.",
-    "image": "assets/white-mini-fridge-one-catalog.webp",
-    "imageNote": "Bottom unit in the inventory video",
+    "image": "assets/white-mini-fridge-one-product-photo.webp",
+    "imageNote": "Photo of the actual bottom unit",
     "featured": false,
-    "link": "",
-    "photoInset": [
-      51,
-      35,
-      27,
-      24
-    ]
+    "link": ""
   },
   {
     "id": "white-mini-fridge-two",
@@ -818,16 +728,10 @@ window.KK_LISTINGS = [
     "condition": "Scratch and dent",
     "quantity": 1,
     "description": "White compact refrigerator with a dent. This is the top unit shown in the video. Exact brand and size to be confirmed. Inspect condition and verify operation before pickup.",
-    "image": "assets/white-mini-fridge-two-catalog.webp",
-    "imageNote": "Top unit in the inventory video",
+    "image": "assets/white-mini-fridge-two-product-photo.webp",
+    "imageNote": "Photo of the actual top unit",
     "featured": false,
-    "link": "",
-    "photoInset": [
-      24,
-      10,
-      41,
-      16
-    ]
+    "link": ""
   },
   {
     "id": "auxbeam-offroad-lights",
@@ -839,16 +743,10 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Pair of off-road auxiliary lights; verify wiring and compatibility. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/auxbeam-offroad-lights-catalog.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/auxbeam-offroad-lights-product-reference.webp",
+    "imageNote": "AUXBEAM product reference photo for the 9-inch 360-PRO lights",
     "featured": false,
-    "link": "",
-    "photoInset": [
-      13,
-      0,
-      11,
-      0
-    ]
+    "link": ""
   },
   {
     "id": "submersible-water-pump",
@@ -860,8 +758,8 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Submersible pump; model and rated capacity to be confirmed. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/submersible-water-pump-inventory.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "",
+    "imageNote": "Product photo pending.",
     "featured": false,
     "link": ""
   },
@@ -875,8 +773,8 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Compact side table; verify measurements and finish. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/sofa-side-table-inventory.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "",
+    "imageNote": "Product photo pending.",
     "featured": false,
     "link": ""
   },
@@ -890,8 +788,8 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Air-conditioning service vacuum pump and gauge kit; verify included parts. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/ac-vacuum-pump-kit-inventory.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "",
+    "imageNote": "Product photo pending.",
     "featured": false,
     "link": ""
   },
@@ -905,8 +803,8 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Espresso machine; brand and included accessories to be confirmed. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/espresso-maker-em626-inventory.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/espresso-maker-em626-product-reference.webp",
+    "imageNote": "EM626 product reference photo",
     "featured": false,
     "link": ""
   },
@@ -920,8 +818,8 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Bagged canister vacuum; exact model and accessories to be checked. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/powerforce-bagged-canister-inventory.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/powerforce-bagged-canister-product-reference.webp",
+    "imageNote": "BISSELL product reference photo",
     "featured": false,
     "link": ""
   },
@@ -935,16 +833,10 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Teal-and-black wet/dry vacuum; brand and capacity to be confirmed. Open-box/liquidation item; verify condition and operation before pickup.",
-    "image": "assets/wet-dry-vacuum-catalog.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "",
+    "imageNote": "Product photo pending.",
     "featured": false,
-    "link": "",
-    "photoInset": [
-      4,
-      6,
-      12,
-      6
-    ]
+    "link": ""
   },
   {
     "id": "greenworks-24v-12-inch-snow-shovel",
@@ -1127,16 +1019,10 @@ window.KK_LISTINGS = [
     "condition": "To Be Confirmed",
     "quantity": 1,
     "description": "Bluetooth speaker with a bamboo-style front and black fabric surround, pictured on its original box.",
-    "image": "assets/house-of-marley-bluetooth-speaker.webp",
-    "imageNote": "Photo of actual KK’s BID & BUY inventory",
+    "image": "assets/house-of-marley-bluetooth-speaker-product-reference.webp",
+    "imageNote": "House of Marley product reference photo",
     "featured": false,
-    "link": "",
-    "photoInset": [
-      0,
-      0,
-      0,
-      0
-    ]
+    "link": ""
   },
   {
     "id": "marina-plaid-queen-sheet-set",
