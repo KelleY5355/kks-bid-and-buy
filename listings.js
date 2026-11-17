@@ -5,7 +5,7 @@ window.KK_LISTINGS = [
     "title": "BISSELL PowerForce Turbo Pet Upright Vacuum",
     "price": "$79",
     "type": "Shop",
-    "status": "Sold",
+    "status": "Sold Out",
     "category": "Home & Kitchen",
     "condition": "Not Yet Confirmed",
     "quantity": 0,
