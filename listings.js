@@ -10,7 +10,7 @@ window.KK_LISTINGS = [
     "condition": "Tested before pickup",
     "quantity": 1,
     "description": "Automatic refrigerated pet feeder with programmable feeding schedule. Designed to keep prepared pet meals cool for up to 24 hours. Power supply, accessories and operation checked before handover. Product photo is an illustrative depiction of a similar item and may not exactly match the item offered. Actual appearance, included accessories and features may vary; please confirm details before purchase. Every item is tested and verified before purchase. Boxes may show wear, dents, tears or other cosmetic damage and may not be in pristine condition.",
-    "image": "",
+    "image": "images/ubpet-refrigerated-feeder.svg",
     "imageNote": "Illustrative image only; actual product may differ. Tested and verified before purchase. Packaging may show cosmetic wear.",
     "featured": false,
     "link": ""
@@ -25,7 +25,7 @@ window.KK_LISTINGS = [
     "condition": "Tested before pickup",
     "quantity": 1,
     "description": "Compact ultrasonic cleaner for compatible jewelry and small accessories. Digital timer and removable lid pictured on packaging. Tested before pickup. Product photo is an illustrative depiction of a similar item and may not exactly match the item offered. Actual appearance, included accessories and features may vary; please confirm details before purchase. Every item is tested and verified before purchase. Boxes may show wear, dents, tears or other cosmetic damage and may not be in pristine condition.",
-    "image": "",
+    "image": "images/canhope-ultrasonic-cleaner.svg",
     "imageNote": "Illustrative image only; actual product may differ. Tested and verified before purchase. Packaging may show cosmetic wear.",
     "featured": false,
     "link": ""
@@ -40,7 +40,7 @@ window.KK_LISTINGS = [
     "condition": "Tested before pickup",
     "quantity": 1,
     "description": "Compact electric shoe and boot dryer for damp footwear. Exact brand and model to be confirmed; electrical operation checked before pickup. Product photo is an illustrative depiction of a similar item and may not exactly match the item offered. Actual appearance, included accessories and features may vary; please confirm details before purchase. Every item is tested and verified before purchase. Boxes may show wear, dents, tears or other cosmetic damage and may not be in pristine condition.",
-    "image": "",
+    "image": "images/electric-footwear-dryer.svg",
     "imageNote": "Illustrative image only; actual product may differ. Tested and verified before purchase. Packaging may show cosmetic wear.",
     "featured": false,
     "link": ""
@@ -55,7 +55,7 @@ window.KK_LISTINGS = [
     "condition": "Tested before pickup",
     "quantity": 1,
     "description": "Portable padded stadium seat with backrest and wired controller. Exact powered functions and required power source to be confirmed before sale. Product photo is an illustrative depiction of a similar item and may not exactly match the item offered. Actual appearance, included accessories and features may vary; please confirm details before purchase. Every item is tested and verified before purchase. Boxes may show wear, dents, tears or other cosmetic damage and may not be in pristine condition.",
-    "image": "",
+    "image": "images/powered-stadium-seat.svg",
     "imageNote": "Illustrative image only; actual product may differ. Tested and verified before purchase. Packaging may show cosmetic wear.",
     "featured": false,
     "link": ""
@@ -70,7 +70,7 @@ window.KK_LISTINGS = [
     "condition": "Tested before pickup",
     "quantity": 1,
     "description": "10.1-inch Wi-Fi digital picture frame. Brand, storage and app compatibility to be confirmed. Tested before pickup. Product photo is an illustrative depiction of a similar item and may not exactly match the item offered. Actual appearance, included accessories and features may vary; please confirm details before purchase. Every item is tested and verified before purchase. Boxes may show wear, dents, tears or other cosmetic damage and may not be in pristine condition.",
-    "image": "",
+    "image": "images/wifi-picture-frame-10-inch.svg",
     "imageNote": "Illustrative image only; actual product may differ. Tested and verified before purchase. Packaging may show cosmetic wear.",
     "featured": false,
     "link": ""
@@ -85,7 +85,7 @@ window.KK_LISTINGS = [
     "condition": "Tested before pickup",
     "quantity": 1,
     "description": "Right-hand wrist and thumb support brace. Size and unused condition to be verified before sale. Product photo is an illustrative depiction of a similar item and may not exactly match the item offered. Actual appearance, included accessories and features may vary; please confirm details before purchase. Every item is tested and verified before purchase. Boxes may show wear, dents, tears or other cosmetic damage and may not be in pristine condition.",
-    "image": "",
+    "image": "images/featol-right-wrist-thumb-brace.svg",
     "imageNote": "Illustrative image only; actual product may differ. Tested and verified before purchase. Packaging may show cosmetic wear.",
     "featured": false,
     "link": ""
@@ -100,7 +100,7 @@ window.KK_LISTINGS = [
     "condition": "Tested before pickup",
     "quantity": 1,
     "description": "Boxed rectangular mirrored decorative pieces, pictured as a pair on the carton label. Exact contents, dimensions and condition to be confirmed before sale. Product photo is an illustrative depiction of a similar item and may not exactly match the item offered. Actual appearance, included accessories and features may vary; please confirm details before purchase. Every item is tested and verified before purchase. Boxes may show wear, dents, tears or other cosmetic damage and may not be in pristine condition.",
-    "image": "",
+    "image": "images/rectangular-mirrored-decor-set.svg",
     "imageNote": "Illustrative image only; actual product may differ. Tested and verified before purchase. Packaging may show cosmetic wear.",
     "featured": false,
     "link": ""
