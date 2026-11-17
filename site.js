@@ -33,6 +33,9 @@ function hideCart(){ $('#cart-drawer').classList.remove('open');$('#cart-drawer'
 const categories=['All',...new Set(shop.map(p=>p.category))];
 function renderFilters(){ $('#category-filters').innerHTML=categories.map(c=>`<button type="button" class="filter-pill ${c===filter?'active':''}" data-category="${esc(c)}">${esc(c)}</button>`).join('') }
 function listingPhoto(product, photo, lazy=false){
+ if(Array.isArray(product.photoRegion)&&product.photoRegion.length===4){
+  return `<svg class="product-picture-panel" viewBox="${product.photoRegion.join(' ')}" role="img" aria-label="${esc(photo.alt)}"><image href="${esc(photo.src)}" width="1536" height="1024" /></svg>`;
+ }
  const inset=product.photoInset;
  const crop=Array.isArray(inset)&&inset.length===4&&inset.every(n=>Number.isFinite(n)&&n>=0&&n<=60);
  const img=`<img ${lazy?'loading="lazy"':''} src="${esc(photo.src)}" alt="${esc(photo.alt)}"${crop?` style="--photo-crop:inset(${inset.map(n=>n+'%').join(' ')})"`:''}>`;
