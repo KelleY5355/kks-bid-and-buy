@@ -3,7 +3,7 @@ window.KK_LISTINGS = [
   {
     "id": "ubpet-refrigerated-feeder",
     "title": "UBPet Smart Refrigerated Pet Feeder",
-    "price": "$65",
+    "price": "$46",
     "type": "Shop",
     "status": "Live",
     "category": "Pet Supplies",
@@ -19,7 +19,7 @@ window.KK_LISTINGS = [
   {
     "id": "canhope-ultrasonic-cleaner",
     "title": "CANHOPE Ultrasonic Cleaning Machine",
-    "price": "$40",
+    "price": "$28",
     "type": "Shop",
     "status": "Live",
     "category": "Home & Kitchen",
@@ -35,7 +35,7 @@ window.KK_LISTINGS = [
   {
     "id": "electric-footwear-dryer",
     "title": "Electric Footwear Dryer",
-    "price": "$35",
+    "price": "$25",
     "type": "Shop",
     "status": "Live",
     "category": "Home & Kitchen",
@@ -51,7 +51,7 @@ window.KK_LISTINGS = [
   {
     "id": "powered-stadium-seat",
     "title": "Padded Stadium Seat with Wired Controller",
-    "price": "$45",
+    "price": "$32",
     "type": "Shop",
     "status": "Live",
     "category": "Outdoor & Garden",
@@ -67,7 +67,7 @@ window.KK_LISTINGS = [
   {
     "id": "wifi-picture-frame-10-inch",
     "title": "10.1-inch Wi-Fi Digital Picture Frame — Black",
-    "price": "$45",
+    "price": "$32",
     "type": "Shop",
     "status": "Live",
     "category": "Electronics & Tech",
@@ -84,7 +84,7 @@ window.KK_LISTINGS = [
   {
     "id": "featol-right-wrist-thumb-brace",
     "title": "FEATOL Wrist and Thumb Brace — Right Hand",
-    "price": "$30",
+    "price": "$21",
     "type": "Shop",
     "status": "Live",
     "category": "Health & Wellness",
@@ -100,7 +100,7 @@ window.KK_LISTINGS = [
   {
     "id": "rectangular-mirrored-decor-set",
     "title": "Rectangular Mirrored Decorative Set",
-    "price": "$45",
+    "price": "$32",
     "type": "Shop",
     "status": "Live",
     "category": "Home Decor & Gifts",
