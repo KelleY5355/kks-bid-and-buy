@@ -722,21 +722,6 @@ window.KK_LISTINGS = [
     "link": ""
   },
   {
-    "id": "heater-fan",
-    "title": "Portable Heater Fan",
-    "price": "$99",
-    "type": "Shop",
-    "status": "Live",
-    "category": "Home & Kitchen",
-    "condition": "To Be Confirmed",
-    "quantity": 1,
-    "description": "Portable heater fan. Tested before pickup or delivery. Boxes may show cosmetic wear or damage.",
-    "image": "assets/heater-fan-restored.jpg",
-    "imageNote": "Original inventory photo; packaging may be visible.",
-    "featured": false,
-    "link": ""
-  },
-  {
     "id": "instant-vortex-plus",
     "title": "Instant Vortex Plus Air Fryer",
     "price": "$89",
